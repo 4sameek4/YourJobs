@@ -4,14 +4,14 @@ A lightweight, offline Windows desktop widget for tracking job applications with
 
 ## Features
 
-✅ **Modern UI** - Clean, borderless widget with custom styling
-✅ **Always-On-Top** - Stays visible above other windows
-✅ **Bottom-Right Positioning** - Automatically positioned above the Windows taskbar
-✅ **Excel Storage** - First-run file picker with auto-created workbook and columns
-✅ **Error Handling** - Graceful handling of file access conflicts
-✅ **Success Feedback** - Temporary success message with fade-out effect
-✅ **Draggable** - Custom title bar allows repositioning
-✅ **Tab Navigation** - Full keyboard support with Enter to submit
+- ✅ **Modern UI** - Clean, borderless widget with custom styling
+- ✅ **Always-On-Top** - Stays visible above other windows
+- ✅ **Bottom-Right Positioning** - Automatically positioned above the Windows taskbar
+- ✅ **Excel Storage** - First-run file picker with auto-created workbook and columns
+- ✅ **Error Handling** - Graceful handling of file access conflicts
+- ✅ **Success Feedback** - Temporary success message with fade-out effect
+- ✅ **Draggable** - Custom title bar allows repositioning
+- ✅ **Tab Navigation** - Full keyboard support with Enter to submit
 
 ## Installation
 
